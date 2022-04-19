@@ -1,0 +1,16 @@
+
+nav:
+  - title: Tutorials
+    category: tutorials
+
+  - title: Explanations
+    category: explanations
+
+  - title: How-Tos
+    category: how-tos
+
+  - title: Reference
+    category: reference
+    subnav:
+      - title: Interfaces
+        category: interfaces
